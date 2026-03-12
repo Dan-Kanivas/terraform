@@ -25,5 +25,8 @@ override.tf.json
 .terraformrc
 terraform.rc
 
+**/.terraform.lock.hcl
+**/elastic key pairs.pem
+
 # Terraform lock file (optional depending on workflow)
 # .terraform.lock.hcl
